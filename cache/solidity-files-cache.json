@@ -1,0 +1,48 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/home/salman/Documents/GitHub/DAO/contracts/WonderCard.sol": {
+      "lastModificationDate": 1745669811545,
+      "contentHash": "71266e12d4730859cb6555c9d0555a10",
+      "sourceName": "contracts/WonderCard.sol",
+      "solcConfig": {
+        "version": "0.8.29",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 400
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata",
+                "devdoc",
+                "userdoc",
+                "storageLayout",
+                "evm.gasEstimates"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          },
+          "metadata": {
+            "useLiteralContent": true
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.29"
+      ],
+      "artifacts": [
+        "MemoryCardGame"
+      ]
+    }
+  }
+}
