@@ -48,14 +48,3 @@ Card 0: Matched - true
 Card 1: Matched - true
 ...
 ```
-
----
-
-## 📌 Notes
-
-- Cards are initialized on deployment.
-- For production, randomness should be verifiable (e.g. Chainlink VRF).
-
----
-
-Clean and focused ✅ Would you like this as a markdown file too?
